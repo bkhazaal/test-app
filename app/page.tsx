@@ -8,7 +8,7 @@ export default function Home() {
       <div className="h-[100px] text-[25px] text-center">Just now...</div>
       <div className="h-[100px] text-[20px] text-center">Because I can...</div>
       <div className="h-[100px] text-[15px] text-center">
-        Aren't you proud of me?
+        Arent you proud of me?
       </div>
     </main>
   );
