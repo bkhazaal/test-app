@@ -9,13 +9,13 @@ export default function Home() {
           <li></li>
         </ul>
       </nav>
-      <div className="p-10">
+      <div className="p-10 flex">
         <div>
           <h1 className="text-5xl text-center ">
             Workouts Made <br />{" "}
             <span className="text-emerald-500">Exclusively</span> For You
           </h1>
-          <p className="ml-[240px] text-lg mt-[40px] text-gray-400">
+          <p className="text-center text-lg mt-[40px] text-gray-400">
             We create <strong> exclusive and unique </strong>workouts for you.{" "}
             <br />
             Invest in <strong>your</strong> body and get much more performance{" "}
