@@ -9,20 +9,22 @@ export default function Home() {
           <li></li>
         </ul>
       </nav>
-      <div className="p-10 flex">
+      <div className="p-[150px] flex">
         <div>
           <h1 className="text-5xl text-center ">
             Workouts Made <br />{" "}
             <span className="text-emerald-500">Exclusively</span> For You
           </h1>
-          <p className="text-center text-lg mt-[40px] text-gray-400">
+          <p className="text-center text-lg mt-[40px] mb-10 text-gray-400">
             We create <strong> exclusive and unique </strong>workouts for you.{" "}
             <br />
             Invest in <strong>your</strong> body and get much more performance{" "}
             <br />
             and quality of life.
           </p>
-          <button></button>
+          <button className="p-2 ml-[140px] bg-emerald-400 text-white hover:bg-emerald-500">
+            GET STARTED
+          </button>
         </div>
         <div></div>
       </div>
